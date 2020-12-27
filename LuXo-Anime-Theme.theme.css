@@ -1,6 +1,6 @@
 /*
 @*Name:LuXo Anime Theme
-@*Made By 🎄Ale✘🎄#7801 (Discord)
+@*Made By Ale✘#7801 (Discord)
 @*Github Profile:LuXo AlEx
 @*Version 1.0.0
 @*Description: Some style I made cause I was board. Giving discord that nice cool anime calm look
@@ -69,3 +69,25 @@ colorHeaderPrimary-26Jzh- {
     color: #de221f;}
 theme-light {
     --header-primary: #f0f0f6;}
+
+.colorHeaderPrimary-26Jzh- {
+    color: #a2a2a7;}
+
+.regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {background-color:#1f2020}
+.regionSelectModal-12e-57 {background: #1f2020!important;}
+
+container-3XJ8ns {background-color: #1f2020e6; border: 1px solid rgb(16, 15, 15);}
+
+.grid-1nZz7S {background-color: #1f20207a;}
+
+.container-3XJ8ns {
+    width: 250px;
+    overflow: hidden;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 8px;
+    background-color: #1f2020d9;
+    border: 1px solid rgba(3, 3, 3, 0.1);}
+
+.list-1xE9GQ {background-color: #1f2020d1;}
